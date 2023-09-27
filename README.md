@@ -1,5 +1,5 @@
 # hlang
-Contact: <br>
- Discord: susguy446 <br>
 
- 
+# FAQ
+
+## What is hlang?
