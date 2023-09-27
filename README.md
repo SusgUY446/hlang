@@ -1,5 +1,5 @@
 # hlang
-## Contact: <br>
+Contact: <br>
  Discord: susguy446 <br>
  Email: susguy446@gmail.com
  
