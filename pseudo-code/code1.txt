@@ -1,5 +1,0 @@
-def name () {}; // create a functio
-var name = "hello"; // create a var with dynamic typing
-var name:string = "hello"; // type (optinal)
-
-
