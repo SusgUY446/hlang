@@ -12,7 +12,7 @@
 
 
 
-
+<p>print(); // print text</p>
 <p>def name () {}; // create a function</p>
 
 <p>var name = "hello"; // create a var with dynamic typing</p>
